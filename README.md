@@ -1,2 +1,2 @@
-# assignment4
-this is a test project
+# assignment 4
+This is a test project
